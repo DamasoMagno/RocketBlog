@@ -1,5 +1,5 @@
 # Project
-<p align="center">
+<p>
   RocketBlog is a project proposed as challenge by Rocketseat in Discover course
 </p>
 
