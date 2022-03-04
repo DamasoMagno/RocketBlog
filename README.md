@@ -9,4 +9,4 @@
 
 ## Design 
 
-[RocketBLog Design](https://www.figma.com/file/7cCQGjG8FEEtoGmq2y4XEG/DD-%2F-RocketBlog-(Copy)?node-id=3%3A2)
+[RocketBlog Design](https://www.figma.com/file/7cCQGjG8FEEtoGmq2y4XEG/DD-%2F-RocketBlog-(Copy)?node-id=3%3A2)
